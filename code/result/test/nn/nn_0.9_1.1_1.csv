@@ -1,0 +1,2 @@
+,p,cost,num1,list_N1N2,list_conmat,list_precision,list_recall,list_f1,list_auc,list_mcc,list_gmean
+0,1,1762,1100,"[900, 1100]","[848, 272, 402, 728]",0.644,0.728,0.684,0.29700000000000004,0.404,0.7027625488029368
